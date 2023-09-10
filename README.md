@@ -9,4 +9,4 @@ Project implements a detailed compiler using OpenAI's GPT 3. The compiler allows
 4. Clear the 'console-out.txt" file
 5. Copy your error message into the 'console-out.txt" file and save
 6. Run "node answer"
-4. See results in model.json file, under the "Output" section
+4. See results in model.json file, under the "output" section
